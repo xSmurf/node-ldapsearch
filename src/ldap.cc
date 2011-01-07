@@ -1,5 +1,6 @@
 // Provides Node.JS binding for ldap_simple_bind().
 // See README
+// 2010, xSmurf, xsmurf@smurfturf.net, http://mlalonde.net/
 // 2010, Joe Walnes, joe@walnes.com, http://joewalnes.com/
 
 
