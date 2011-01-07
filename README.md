@@ -11,6 +11,8 @@ It has SSL (ldaps) and LDAP URI support.
 
 It does not yet support LDAP bind.
 
+It is still experimental, YMMV!
+
 Building
 --------
 
