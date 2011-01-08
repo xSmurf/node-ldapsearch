@@ -7,7 +7,7 @@ Provides a simple function for running search queries on an LDAP server.
 
 It binds to the native OpenLDAP library (libldap) and calls ldap_simple_bind().
 
-It has SSL (ldaps) and LDAP URI support.
+It has SSL (ldaps) and LDAP URI support see @man 3 ldap_url@.
 
 It does not yet support LDAP bind.
 
